@@ -44,3 +44,6 @@
 ## Accessing the Application
 
 -   Open your web browser and go to `http://localhost:8000` to access the application.
+
+## You can run the available tests using the following command.
+- `php artisan test`
